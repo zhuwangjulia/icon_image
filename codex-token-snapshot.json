@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-03T14:11:28.415641Z",
+  "updated_at": "2026-07-03T14:21:37.241183Z",
   "primary": {
     "label": "5小时",
-    "used_percent": 18.0,
-    "remaining_percent": 82.0,
+    "used_percent": 19.0,
+    "remaining_percent": 81.0,
     "resets_at": 1783090624
   },
   "secondary": {
