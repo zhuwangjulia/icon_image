@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-06T01:04:32.144434Z",
+  "updated_at": "2026-07-06T01:14:44.096169Z",
   "primary": {
     "label": "5小时",
-    "used_percent": 0.0,
-    "remaining_percent": 100.0,
-    "resets_at": 1783317722
+    "used_percent": 3.0,
+    "remaining_percent": 97.0,
+    "resets_at": 1783317728
   },
   "secondary": {
     "label": "周限额",
-    "used_percent": 25.0,
-    "remaining_percent": 75.0,
+    "used_percent": 26.0,
+    "remaining_percent": 74.0,
     "resets_at": 1783404647
   },
   "today_tokens": 0,
