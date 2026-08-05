@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-01T11:40:31.289942Z",
+  "updated_at": "2026-08-05T07:48:26.996930Z",
   "primary": {
     "label": "5小时",
-    "used_percent": 54.0,
-    "remaining_percent": 46.0,
+    "used_percent": 57.0,
+    "remaining_percent": 43.0,
     "resets_at": 1786162420
   },
   "secondary": {
@@ -15,23 +15,23 @@
   "today_tokens": 0,
   "five_day_tokens": [
     {
-      "date": "07-28",
-      "tokens": 0
-    },
-    {
-      "date": "07-29",
-      "tokens": 0
-    },
-    {
-      "date": "07-30",
-      "tokens": 0
-    },
-    {
-      "date": "07-31",
-      "tokens": 0
-    },
-    {
       "date": "08-01",
+      "tokens": 0
+    },
+    {
+      "date": "08-02",
+      "tokens": 0
+    },
+    {
+      "date": "08-03",
+      "tokens": 0
+    },
+    {
+      "date": "08-04",
+      "tokens": 0
+    },
+    {
+      "date": "08-05",
       "tokens": 0
     }
   ],
