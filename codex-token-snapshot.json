@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T14:10:11.592458Z",
+  "updated_at": "2026-08-15T16:37:51.349420Z",
   "primary": {
     "label": "5小时",
     "used_percent": 25.0,
@@ -15,10 +15,6 @@
   "today_tokens": 0,
   "five_day_tokens": [
     {
-      "date": "08-11",
-      "tokens": 0
-    },
-    {
       "date": "08-12",
       "tokens": 0
     },
@@ -32,6 +28,10 @@
     },
     {
       "date": "08-15",
+      "tokens": 0
+    },
+    {
+      "date": "08-16",
       "tokens": 0
     }
   ],
